@@ -1,0 +1,21 @@
+{
+  "schema_version": 2,
+  "curriculum_version": "2.1.0",
+  "github_user": "SoheylM",
+  "source_repository": "soheylm-passport-sandbox/passport-exercises",
+  "fork_repository": "SoheylM/passport-exercises",
+  "assessment_branch": "onboarding/soheylm",
+  "platform": "macos",
+  "responsibilities": [
+    "git"
+  ],
+  "missions": [
+    "core-orientation",
+    "core-accounts-secrets",
+    "core-systems-data",
+    "core-incidents-ai-responsibility",
+    "git-tools-auth",
+    "git-manual-pr"
+  ],
+  "setup_complete": true
+}
